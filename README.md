@@ -15,7 +15,4 @@ It uses a weighted average system (30% midterm, 20% project, 50% final) to deter
 
 ## 📌 How to Use
 
-1. Compile the code using a C++ compiler:
-   ```bash
-   g++ grade_calculator.cpp -o grade_calculator
-   ./grade_calculator
+1. Compile the code using a C++ compiler
