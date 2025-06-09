@@ -1,4 +1,4 @@
-# weighted-grade-calculator
+# Weighted Grade Calculator
 
 This is a simple C++ program that calculates a student's average grade based on exam scores.  
 It uses a weighted average system (30% midterm, 20% project, 50% final) to determine if the student passed or failed.
